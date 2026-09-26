@@ -1,0 +1,5 @@
+# Python Automation Projects — Daily Progress Tracker
+
+| Day | Date | File Name | Description | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Day 1** | 01-Oct-2026 | `day_01_stress_tensor_calculator.ipynb` | Automated 3D Principal Stress & Von Mises Yield Stress calculator using NumPy. | ✅ Completed |
